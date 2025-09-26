@@ -1,0 +1,1 @@
+# trabalho_super_trunfo.c
